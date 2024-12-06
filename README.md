@@ -1,4 +1,4 @@
-![.github/workflows/maven.yml](https://github.com/boterka/se-lab/blob/main/.github/workflows/maven.yml))
+[![Java CI with Maven](https://github.com/boterka/se-lab/actions/workflows/maven.yml/badge.svg)](https://github.com/boterka/se-lab/actions/workflows/maven.yml)
 
 # SE Spaceship
 
