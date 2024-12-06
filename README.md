@@ -1,5 +1,4 @@
-![workflow]
-(.github/workflows/maven.yml)
+![.github/workflows/maven.yml](https://github.com/boterka/se-lab/blob/main/.github/workflows/maven.yml))
 
 # SE Spaceship
 
